@@ -1,3 +1,4 @@
 .env
 langchain-academy/*
 langchain-academy
+.gitignore
